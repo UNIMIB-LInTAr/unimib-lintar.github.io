@@ -12,7 +12,7 @@ Intro
 ### Current
 - Giuseppe Vizzari
 - Daniela Briola
-- [[people.thomascecconello]]
+- [Thomas Cecconello](people.thomascecconello.md)
 
 ### Hall of fame
 - Lucas Puerari
@@ -29,7 +29,7 @@ Intro
   - Reinforcement learning
   - Clustering methods
 - Representation learning
-  - [[research.topics.reprlearn.lse]]
+  - [Latent Space Explorer](research.topics.reprlearn.lse.md)
 - VR
   - ...
 
